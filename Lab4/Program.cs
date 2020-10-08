@@ -66,7 +66,7 @@ namespace Lab_4
             return stack2;
         }
 //доделать методы расширения 
-
+//вывод!!!!!
     }
     class Program
     {
